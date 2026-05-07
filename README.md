@@ -30,7 +30,7 @@ I am passionate about programming, problem solving, and continuously learning ne
 
 <div align="center">
 
-<a href="https://github.com/binitabanjara">
+<a href="https://github.com/Binitabanjara">
 <img src="https://skillicons.dev/icons?i=github" width="52" />
 </a>
 
@@ -53,13 +53,13 @@ I am passionate about programming, problem solving, and continuously learning ne
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=binitabanjara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=8b5cf6"
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Binitabanjara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=8b5cf6"
 />
 
-<br><br>
-
 <img
-src="https://streak-stats.demolab.com?user=binitabanjara&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=8b5cf6&currstreak_label=8b5cf6"
+height="180em"
+src="https://streak-stats.demolab.com?user=Binitabanjara&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6"
 />
 
 </div>
@@ -71,7 +71,8 @@ src="https://streak-stats.demolab.com?user=binitabanjara&theme=tokyonight&hide_b
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=binitabanjara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binitabanjara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
 />
 
 </div>
@@ -87,6 +88,16 @@ src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration
 />
 
 </div>
+
+---
+
+# 🏆 Goals
+
+- 🚀 Improve problem solving skills
+- 💻 Build real-world software projects
+- 📚 Learn advanced programming concepts
+- 🌐 Become a skilled software engineer
+- 🤝 Contribute to open source projects
 
 ---
 
