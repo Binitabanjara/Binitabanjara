@@ -26,8 +26,6 @@ A dedicated technology enthusiast who enjoys turning ideas into working, maintai
 
 ## 🌍 Connect With Me
 
-## 🌍 Connect With Me
-
 <div align="center" style="margin: 32px 0;">
   <table style="border-collapse:separate; border-spacing: 28px 8px; background:none;">
     <tr>
