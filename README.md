@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=2400&pause=850&color=8b5cf6&center=true&vCenter=true&width=980&lines=👋+Binit+Banjara;🎓+Computer+Engineering+Student+%7C+Purbanchal+University;💻+C+%7C+C%2B%2B+%7C+Python+%7C+Web+Explorer;🚀+Building+clean+and+efficient+solutions;📊+OOP+%7C+HTML+%7C+CSS+%7C+JavaScript"
+    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=2400&pause=850&color=8b5cf6&center=true&vCenter=true&width=980&lines=👋+Binita+Banjara;🎓+Computer+Engineering+Student+%7C+Purbanchal+University;💻+C+%7C+C%2B%2B+%7C+Python+%7C+Web+Explorer;🚀+Building+clean+and+efficient+solutions;📊+OOP+%7C+HTML+%7C+CSS+%7C+JavaScript"
     alt="Typing Header"
   />
 
