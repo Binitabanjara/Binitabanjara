@@ -26,6 +26,8 @@ A dedicated technology enthusiast who enjoys turning ideas into working, maintai
 
 ## 🌍 Connect With Me
 
+## 🌍 Connect With Me
+
 <div align="center" style="margin: 32px 0;">
   <table style="border-collapse:separate; border-spacing: 28px 8px; background:none;">
     <tr>
@@ -35,30 +37,28 @@ A dedicated technology enthusiast who enjoys turning ideas into working, maintai
         </a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/your-linkedin-username/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/binita-banjara-495749376" title="LinkedIn" target="_blank" rel="noopener noreferrer">
           <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="52" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.facebook.com/your-facebook-username/" title="Facebook" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com/binita.banjara.549" title="Facebook" target="_blank" rel="noopener noreferrer">
           <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="52" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.instagram.com/your-instagram-username/" title="Instagram" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/banjarabinita64/" title="Instagram" target="_blank" rel="noopener noreferrer">
           <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="52" />
         </a>
       </td>
       <td align="center">
-        <a href="mailto:your-email@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer">
+        <a href="mailto:banjarabinita64@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer">
           <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="52" />
         </a>
       </td>
     </tr>
-  </table>
+  <table>
 </div>
-
----
 
 ## 🧰 Tech Stack
 
